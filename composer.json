@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/redis-manager",
+    "name": "zyoo-info/redis-manager",
     "description": "Redis manager for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "redis", "manager"],
@@ -9,11 +9,15 @@
         {
             "name": "z-song",
             "email": "zosong@126.com"
+        },
+        {
+            "name": "reasonpun",
+            "email": "reasonpun@gmaill.com"
         }
     ],
     "require": {
         "php": ">=7.0.0",
-        "laravel/framework": "~5.5",
+        "laravel/framework": "~5.7",
         "encore/laravel-admin": "~1.5",
         "predis/predis": "~1.0"
     },

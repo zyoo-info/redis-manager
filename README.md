@@ -13,7 +13,7 @@ Redis manager for laravel-admin
 ## Installation
 
 ```
-$ composer require laravel-admin-ext/redis-manager
+$ composer require zyoo-info/redis-manager
 
 $ php artisan admin:import redis-manager
 ```
